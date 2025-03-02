@@ -27,12 +27,16 @@
       <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/Tours.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/verifyemail.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tour-booking/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tour-booking" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tour-booking/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tour-booking/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tour-booking/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tour-booking/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tour-booking/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tour-booking/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tour-booking/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tour-booking" beforeDir="false" afterPath="$PROJECT_DIR$/../tour-booking" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +255,7 @@
       <workItem from="1740824299615" duration="4975000" />
       <workItem from="1740855022420" duration="5944000" />
       <workItem from="1740864277406" duration="10680000" />
-      <workItem from="1740898625868" duration="21191000" />
+      <workItem from="1740898625868" duration="21634000" />
     </task>
     <servers />
   </component>
