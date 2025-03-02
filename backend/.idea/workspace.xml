@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c783e4a1-5fea-4bf1-8aa4-4cc812c1a1e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tour-booking/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/public/locales/az/translation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/public/locales/en/translation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/public/locales/ru/translation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/public/locales/tr/translation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/api/axiosConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/components/Hero.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/components/LanguageSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/context/AppContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/i18n.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/AdminPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/Booking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/TourDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/Tours.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/verifyemail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tour-booking/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tour-booking/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tour-booking/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tour-booking/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tour-booking/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tour-booking/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tour-booking" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2snIoUHO4wUfxTuLYmeB3TRdIMk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Django Server.Backend Server.executor&quot;: &quot;Run&quot;,
+    &quot;Python.manage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.middleware.executor&quot;: &quot;Run&quot;,
+    &quot;Python.serializers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.settings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wsgi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/elgiz/flyexpert/backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/elgiz/flyexpert/backend/tour-booking/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tour-booking/public" />
+      <recent name="$PROJECT_DIR$/tour-booking" />
+      <recent name="$PROJECT_DIR$/tour-booking/src" />
+      <recent name="$PROJECT_DIR$/tour-booking/src/pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Backend Server" type="Python.DjangoServer" factoryName="Django server">
+      <module name="backend" />
+      <option name="ENV_FILES" value="Add content roots to PYTHONPATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="backend.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (backend)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="$PROJECT_DIR$/manage.py" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="backend" type="Python.DjangoServer" factoryName="Django server">
+      <module name="backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (backend)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django Server.Backend Server" />
+      <item itemvalue="Django Server.backend" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c783e4a1-5fea-4bf1-8aa4-4cc812c1a1e2" name="Changes" comment="" />
+      <created>1739085087601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739085087601</updated>
+      <workItem from="1739085088959" duration="2175000" />
+      <workItem from="1739106683290" duration="2000" />
+      <workItem from="1739106695741" duration="7000" />
+      <workItem from="1739106717672" duration="971000" />
+      <workItem from="1739107700861" duration="1288000" />
+      <workItem from="1739109048511" duration="632000" />
+      <workItem from="1739189426258" duration="2007000" />
+      <workItem from="1739191537792" duration="226000" />
+      <workItem from="1739191949420" duration="6965000" />
+      <workItem from="1739647936923" duration="2275000" />
+      <workItem from="1739651210046" duration="868000" />
+      <workItem from="1739652101705" duration="7715000" />
+      <workItem from="1739689813896" duration="20470000" />
+      <workItem from="1739739615964" duration="5554000" />
+      <workItem from="1739765827669" duration="8384000" />
+      <workItem from="1739810878362" duration="6388000" />
+      <workItem from="1739818225027" duration="523000" />
+      <workItem from="1739818751985" duration="15128000" />
+      <workItem from="1739913273574" duration="2298000" />
+      <workItem from="1739947458439" duration="1491000" />
+      <workItem from="1739949428186" duration="9137000" />
+      <workItem from="1740345304068" duration="52000" />
+      <workItem from="1740400202815" duration="1472000" />
+      <workItem from="1740684045540" duration="9992000" />
+      <workItem from="1740723159347" duration="26069000" />
+      <workItem from="1740824299615" duration="4975000" />
+      <workItem from="1740855022420" duration="5944000" />
+      <workItem from="1740864277406" duration="10680000" />
+      <workItem from="1740898625868" duration="21191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/backend$wsgi.coverage" NAME="wsgi Coverage Results" MODIFIED="1739888904093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+    <SUITE FILE_PATH="coverage/backend$manage.coverage" NAME="manage Coverage Results" MODIFIED="1740686957675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/backend$middleware.coverage" NAME="middleware Coverage Results" MODIFIED="1739888950775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+    <SUITE FILE_PATH="coverage/backend$settings.coverage" NAME="settings Coverage Results" MODIFIED="1739888975121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend" />
+    <SUITE FILE_PATH="coverage/backend$serializers.coverage" NAME="serializers Coverage Results" MODIFIED="1739888891902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/accounts" />
+  </component>
+</project>

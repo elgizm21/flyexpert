@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tour List</title>
+</head>
+<body>
+    <h1>Available Tours</h1>
+    <ul>
+        {% for tour in tours %}
+            <li>
+                <h2>{{ tour.title }}</h2>
+                <p>{{ tour.description }}</p>
+                <p><strong>Price:</strong> ${{ tour.price }}</p>
+                <p><strong>Location:</strong> {{ tour.location }}</p>
+                <p><strong>Seats Available:</strong> {{ tour.available_seats }}</p>
+                <p><strong>Dates:</strong> {{ tour.start_date }} - {{ tour.end_date }}</p>
+            </li>
+        {% empty %}
+            <li>No tours available.</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
