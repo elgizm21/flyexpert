@@ -27,8 +27,439 @@
       <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/Tours.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tour-booking/src/pages/verifyemail.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tour-booking/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tour-booking" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tour-booking/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv-keywords/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/ajv-keywords.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/_formatLimit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/_util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/allRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/anyRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/deepProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/deepRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/dot/_formatLimit.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/dot/patternRequired.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/dot/switch.jst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/dotjs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/dotjs/_formatLimit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/dotjs/patternRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/dotjs/switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/dynamicDefaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/formatMaximum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/formatMinimum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/instanceof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/oneRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/patternRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/prohibited.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/regexp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/typeof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/keywords/uniqueItemProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv-keywords/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv-keywords/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/data-urls/node_modules/webidl-conversions/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/data-urls/node_modules/webidl-conversions/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/data-urls/node_modules/webidl-conversions/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/data-urls/node_modules/webidl-conversions/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/fsevents.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/fsevents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/fsevents.node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fsevents/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsdom/node_modules/webidl-conversions/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsdom/node_modules/webidl-conversions/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsdom/node_modules/webidl-conversions/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsdom/node_modules/webidl-conversions/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.node.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server-legacy.node.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/profiling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/server.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/server.node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/test-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server-legacy.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server-legacy.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-dev-runtime.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-dev-runtime.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-dev-runtime.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-runtime.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-runtime.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react-jsx-runtime.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react.shared-subset.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/cjs/react.shared-subset.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/jsx-dev-runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/jsx-runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/react.shared-subset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/umd/react.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/umd/react.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react/umd/react.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler-unstable_mock.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler-unstable_mock.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler-unstable_post_task.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler-unstable_post_task.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler-unstable_mock.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler-unstable_mock.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/unstable_mock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/unstable_post_task.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/_range.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/_range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/_range.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/_required.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/_required.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/_required.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/_types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/_types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/_types.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/_util.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/_util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/_util.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/allRequired.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/allRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/allRequired.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/anyRequired.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/anyRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/anyRequired.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/deepProperties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/deepProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/deepProperties.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/deepRequired.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/deepRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/deepRequired.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/dynamicDefaults.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/dynamicDefaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/dynamicDefaults.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/exclusiveRange.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/exclusiveRange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/exclusiveRange.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/instanceof.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/instanceof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/instanceof.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/oneRequired.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/oneRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/oneRequired.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/patternRequired.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/patternRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/patternRequired.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/prohibited.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/prohibited.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/prohibited.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/range.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/range.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/regexp.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/regexp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/regexp.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/select.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/select.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/transform.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/transform.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/typeof.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/typeof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/typeof.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/uniqueItemProperties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/uniqueItemProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/definitions/uniqueItemProperties.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/allRequired.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/allRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/allRequired.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/anyRequired.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/anyRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/anyRequired.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/deepProperties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/deepProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/deepProperties.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/deepRequired.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/deepRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/deepRequired.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/dynamicDefaults.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/dynamicDefaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/dynamicDefaults.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/exclusiveRange.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/exclusiveRange.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/exclusiveRange.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/instanceof.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/instanceof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/instanceof.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/oneRequired.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/oneRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/oneRequired.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/patternRequired.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/patternRequired.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/patternRequired.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/prohibited.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/prohibited.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/prohibited.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/range.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/range.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/range.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/regexp.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/regexp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/regexp.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/select.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/select.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/transform.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/transform.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/typeof.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/typeof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/typeof.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/uniqueItemProperties.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/uniqueItemProperties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/dist/keywords/uniqueItemProperties.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/_range.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/_required.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/_types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/_util.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/allRequired.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/anyRequired.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/deepProperties.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/deepRequired.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/dynamicDefaults.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/exclusiveRange.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/instanceof.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/oneRequired.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/patternRequired.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/prohibited.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/range.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/regexp.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/select.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/transform.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/typeof.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/definitions/uniqueItemProperties.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/allRequired.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/anyRequired.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/deepProperties.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/deepRequired.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/dynamicDefaults.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/exclusiveRange.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/instanceof.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/oneRequired.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/patternRequired.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/prohibited.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/range.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/regexp.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/select.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/transform.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/typeof.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/schema-utils/node_modules/ajv-keywords/src/keywords/uniqueItemProperties.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/SECURITY.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/SECURITY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/ThirdPartyNoticeText.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/ThirdPartyNoticeText.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/_tsc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/_tsserver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/_typingsInstaller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/cs/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/cs/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/de/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/de/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/es/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/es/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/fr/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/fr/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/it/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/it/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/ja/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/ja/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/ko/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/ko/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.decorators.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.decorators.legacy.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.asynciterable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.collection.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.collection.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.core.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.core.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.generator.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.generator.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.proxy.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.proxy.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.reflect.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.reflect.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.array.include.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.array.include.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2016.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.arraybuffer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.date.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.regexp.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2018.regexp.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.array.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.array.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.symbol.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2019.symbol.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.bigint.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.bigint.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.date.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.date.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.number.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.number.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.weakref.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2021.weakref.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.array.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.array.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.error.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.error.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.regexp.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2022.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2023.array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2023.collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2023.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2023.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2023.intl.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.arraybuffer.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.full.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.object.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.promise.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.regexp.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.sharedmemory.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es2024.string.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es5.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es6.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.es6.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.collection.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.decorators.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.disposable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.float16.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.iterator.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.esnext.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.scripthost.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.scripthost.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.asynciterable.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.importscripts.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.importscripts.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/lib.webworker.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/pl/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/pl/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/ru/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/ru/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tr/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tr/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/tsserverlibrary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typesMap.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typesMap.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typescript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/typingsInstaller.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/typingsInstaller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/watchGuard.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/watchGuard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typescript/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/typescript/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webidl-conversions/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webidl-conversions/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webidl-conversions/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webidl-conversions/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webidl-conversions/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/webidl-conversions/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/better-ajv-errors.cjs.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/better-ajv-errors.cjs.development.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/better-ajv-errors.cjs.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/better-ajv-errors.cjs.production.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/better-ajv-errors.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/better-ajv-errors.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/constants.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/lib/filter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/lib/suggestions.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/lib/utils.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/dist/types/ValidationError.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/src/constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/src/index.test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/src/lib/filter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/src/lib/suggestions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/src/lib/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/workbox-build/node_modules/@apideck/better-ajv-errors/src/types/ValidationError.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tour-booking/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tour-booking/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tour-booking/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tour-booking/package.json" afterDir="false" />
@@ -56,7 +487,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tour-booking" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -255,7 +686,7 @@
       <workItem from="1740824299615" duration="4975000" />
       <workItem from="1740855022420" duration="5944000" />
       <workItem from="1740864277406" duration="10680000" />
-      <workItem from="1740898625868" duration="21634000" />
+      <workItem from="1740898625868" duration="32934000" />
     </task>
     <servers />
   </component>
